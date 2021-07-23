@@ -42,7 +42,6 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -80,6 +79,7 @@
     "gh-pages": "^3.2.3",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.1",
+    "redux-saga-test-plan": "^4.0.1",
     "simple-git-hooks": "^2.4.1",
     "stylelint": "^13.13.1",
     "stylelint-config-recess-order": "^2.4.0",

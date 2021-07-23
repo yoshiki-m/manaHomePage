@@ -3,7 +3,6 @@ import { VFC } from 'react';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
-import Link from '@material-ui/core/Link';
 import Box from '@material-ui/core/Box';
 
 interface MainFeaturedPostProps {
@@ -11,7 +10,6 @@ interface MainFeaturedPostProps {
     description: string;
     image: string;
     imageText: string;
-    linkText: string;
     title: string;
   };
 }
@@ -64,9 +62,6 @@ const MainFeaturedPost: VFC<MainFeaturedPostProps> = (props) => {
             <Typography variant="h5" color="inherit" paragraph>
               {post.description}
             </Typography>
-            <Link variant="subtitle1" href="/#">
-              {post.linkText}
-            </Link>
           </Box>
         </Grid>
       </Grid>
