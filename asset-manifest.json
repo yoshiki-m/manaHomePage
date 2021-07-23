@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/manaHomePage/static/css/main.d3955d0a.chunk.css",
-    "main.js": "/manaHomePage/static/js/main.b78efb44.chunk.js",
-    "main.js.map": "/manaHomePage/static/js/main.b78efb44.chunk.js.map",
-    "runtime-main.js": "/manaHomePage/static/js/runtime-main.4a7fd3c4.js",
-    "runtime-main.js.map": "/manaHomePage/static/js/runtime-main.4a7fd3c4.js.map",
-    "static/js/2.fe9662f3.chunk.js": "/manaHomePage/static/js/2.fe9662f3.chunk.js",
-    "static/js/2.fe9662f3.chunk.js.map": "/manaHomePage/static/js/2.fe9662f3.chunk.js.map",
-    "static/js/3.179ad907.chunk.js": "/manaHomePage/static/js/3.179ad907.chunk.js",
-    "static/js/3.179ad907.chunk.js.map": "/manaHomePage/static/js/3.179ad907.chunk.js.map",
+    "main.js": "/manaHomePage/static/js/main.9bc11d2a.chunk.js",
+    "main.js.map": "/manaHomePage/static/js/main.9bc11d2a.chunk.js.map",
+    "runtime-main.js": "/manaHomePage/static/js/runtime-main.9e6ef215.js",
+    "runtime-main.js.map": "/manaHomePage/static/js/runtime-main.9e6ef215.js.map",
+    "static/js/2.f72f32d9.chunk.js": "/manaHomePage/static/js/2.f72f32d9.chunk.js",
+    "static/js/2.f72f32d9.chunk.js.map": "/manaHomePage/static/js/2.f72f32d9.chunk.js.map",
+    "static/js/3.b27e0de1.chunk.js": "/manaHomePage/static/js/3.b27e0de1.chunk.js",
+    "static/js/3.b27e0de1.chunk.js.map": "/manaHomePage/static/js/3.b27e0de1.chunk.js.map",
     "index.html": "/manaHomePage/index.html",
     "static/css/main.d3955d0a.chunk.css.map": "/manaHomePage/static/css/main.d3955d0a.chunk.css.map",
-    "static/js/2.fe9662f3.chunk.js.LICENSE.txt": "/manaHomePage/static/js/2.fe9662f3.chunk.js.LICENSE.txt",
-    "static/media/blog-post.1.09e7833f.md": "/manaHomePage/static/media/blog-post.1.09e7833f.md",
-    "static/media/blog-post.2.75655ebf.md": "/manaHomePage/static/media/blog-post.2.75655ebf.md",
-    "static/media/blog-post.3.bdef2d7b.md": "/manaHomePage/static/media/blog-post.3.bdef2d7b.md"
+    "static/js/2.f72f32d9.chunk.js.LICENSE.txt": "/manaHomePage/static/js/2.f72f32d9.chunk.js.LICENSE.txt",
+    "static/media/AIPlanner_1.0cb80037.png": "/manaHomePage/static/media/AIPlanner_1.0cb80037.png",
+    "static/media/AIPlanner_2.6439ffe2.png": "/manaHomePage/static/media/AIPlanner_2.6439ffe2.png",
+    "static/media/AIPlanner_3.092a83be.png": "/manaHomePage/static/media/AIPlanner_3.092a83be.png",
+    "static/media/top.fa04c4ce.png": "/manaHomePage/static/media/top.fa04c4ce.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a7fd3c4.js",
-    "static/js/2.fe9662f3.chunk.js",
+    "static/js/runtime-main.9e6ef215.js",
+    "static/js/2.f72f32d9.chunk.js",
     "static/css/main.d3955d0a.chunk.css",
-    "static/js/main.b78efb44.chunk.js"
+    "static/js/main.9bc11d2a.chunk.js"
   ]
 }
