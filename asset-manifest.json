@@ -1,7 +1,7 @@
 {
   "main.css": "/manaHomePage/static/css/main.5328a8b3.chunk.css",
-  "main.js": "/manaHomePage/static/js/main.05d74dce.chunk.js",
-  "main.js.map": "/manaHomePage/static/js/main.05d74dce.chunk.js.map",
+  "main.js": "/manaHomePage/static/js/main.9987d045.chunk.js",
+  "main.js.map": "/manaHomePage/static/js/main.9987d045.chunk.js.map",
   "static/js/1.e8d274a0.chunk.js": "/manaHomePage/static/js/1.e8d274a0.chunk.js",
   "static/js/1.e8d274a0.chunk.js.map": "/manaHomePage/static/js/1.e8d274a0.chunk.js.map",
   "static/js/2.ba26aefb.chunk.js": "/manaHomePage/static/js/2.ba26aefb.chunk.js",
@@ -18,6 +18,6 @@
   "static/media/vietnam_4.jpg": "/manaHomePage/static/media/vietnam_4.0ce53b8a.jpg",
   "static/css/main.5328a8b3.chunk.css.map": "/manaHomePage/static/css/main.5328a8b3.chunk.css.map",
   "index.html": "/manaHomePage/index.html",
-  "precache-manifest.26d2ab257ebae4472ec369114da2fcc7.js": "/manaHomePage/precache-manifest.26d2ab257ebae4472ec369114da2fcc7.js",
+  "precache-manifest.5c0dbe865cf6833f50db01ff3947af44.js": "/manaHomePage/precache-manifest.5c0dbe865cf6833f50db01ff3947af44.js",
   "service-worker.js": "/manaHomePage/service-worker.js"
 }
