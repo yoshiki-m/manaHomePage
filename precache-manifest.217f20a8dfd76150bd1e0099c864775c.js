@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9987d0458585b4bf52dc",
+    "revision": "df89fc84adbf43be917b",
     "url": "/manaHomePage/static/css/main.5328a8b3.chunk.css"
   },
   {
-    "revision": "9987d0458585b4bf52dc",
-    "url": "/manaHomePage/static/js/main.9987d045.chunk.js"
+    "revision": "df89fc84adbf43be917b",
+    "url": "/manaHomePage/static/js/main.df89fc84.chunk.js"
   },
   {
     "revision": "e8d274a0849fac11e42d",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/manaHomePage/static/media/vietnam_4.0ce53b8a.jpg"
   },
   {
-    "revision": "1c4a1e506691074f33625f5348be4d32",
+    "revision": "d528c9331b1349e3b483af331bf30918",
     "url": "/manaHomePage/index.html"
   }
 ];
